@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525424993138",
+    "project_id": "tweet-28abc",
+    "storage_bucket": "tweet-28abc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525424993138:android:2526b5d373bfcf7c0573eb",
+        "android_client_info": {
+          "package_name": "com.example.tweet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLy1uQ4C04tVy4nwtnmO-0i7yZG1pgowk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
